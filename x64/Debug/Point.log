@@ -1,0 +1,5 @@
+﻿  Point.cpp
+D:\source (old)\repos\Point\Point\Point.cpp(23,10): warning C4129: _: неизвестная escape-последовательность
+  Point_3.cpp
+  Создание кода...
+  Point.vcxproj -> D:\source (old)\repos\Point\x64\Debug\Point.exe
